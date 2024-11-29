@@ -10,7 +10,8 @@ class IniciController
 public function inici()
 {
 // mostra un missatge de benvinguda amb un objecte Response
-return new Response("Benvinguda al web de contactes");
+return new Response("Benvinguda  al web de contactes");
+
 }
 }
 ?>
